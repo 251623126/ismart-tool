@@ -1,7 +1,6 @@
 <h1 align="center">🌿iSmart 助手🌿</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-[![unidbg-fetch-ismart 1.1.0](https://img.shields.io/badge/unidbg--fetch--ismart-1.0.0-orange?color=orange)](https://github.com/251623126/unidbg-fetch-ismart)
 ![Licence](https://img.shields.io/github/license/cxOrz/chaoxing-sign-cli?style=for-the-badge)
 [![unidbg-fetch-ismart 1.1.0](https://img.shields.io/badge/unidbg--fetch--ismart-1.0.0-orange?color=orange)](https://github.com/251623126/unidbg-fetch-ismart)
 
