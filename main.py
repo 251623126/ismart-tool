@@ -251,8 +251,6 @@ class Login(object):
 
 
 if __name__ == '__main__':
-    # username = input("\n请输入您的用户名(手机号):")
-    # password = input("请输入您的密码:")
-    username = '17856189481'
-    password = '251623126j'
+    username = input("\n请输入您的用户名(手机号):")
+    password = input("请输入您的密码:")
     Login(username, password)
