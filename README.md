@@ -1,9 +1,9 @@
-<h1 align="center">🌿iSmart 助手🌿</h1>[
+<h1 align="center">🌿iSmart 助手🌿</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![Licence](https://img.shields.io/github/license/cxOrz/chaoxing-sign-cli?style=for-the-badge)
 
-基于 Python 和 Unidbg 实现的一个命令行iSmart学习工具，帮助用户一键完成所有任务等。
+基于 Python 通过 Unidbg 签名服务 实现的一个命令行iSmart学习工具，帮助用户一键完成所有任务等。
 
 
 ## 功能
